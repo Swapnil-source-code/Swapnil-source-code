@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Kumbhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3><br/>
+<h3 align="center">A passionate developer from India</h3><br/>
 
 - 🔭 I’m currently working on :- **How to Write Clean & Simple Code**
 
