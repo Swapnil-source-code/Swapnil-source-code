@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning :- **React Js**
 
-- 👯 I'm looking to collaborate with :- **UI Developer / Front-end Developer**
+- 👯 I'm looking to collaborate with :- **UI / Front-end Developer**
 
 - 🤝 I’m always looking for :- **Good Opportunity**
 
