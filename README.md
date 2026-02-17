@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Kumbhar</h1>
-<h3 align="center">A Passionate UI Developer </h3><br/>
+<h3 align="center">UI / Front-end Developer </h3><br/>
 <img align="right" alt="Coding" width="375" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 - 🔭 I’m currently working on :- **How to Write Clean & Simple Code**
